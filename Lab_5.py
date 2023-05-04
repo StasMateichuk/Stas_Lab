@@ -1,4 +1,5 @@
 from num2word import word
+print("Hello")
 """Asks for user integer number"""
 num = input("Enter number: ")
 
